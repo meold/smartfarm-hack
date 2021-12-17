@@ -1,0 +1,3 @@
+# SmartFarm
+
+Implementation for NearHack
